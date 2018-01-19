@@ -1,0 +1,14 @@
+{
+  "name": "node-html-qs",
+  "version": "1.0.0",
+  "description": "Dossier permettant d'initier un serveur NodeJS avec des vues HTML",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "JG",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
